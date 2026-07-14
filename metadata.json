@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Universe Creator Mobile",
+  "description": "Design realistic galaxies using physics-based simulations and a user-friendly interface in this immersive cosmic sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
